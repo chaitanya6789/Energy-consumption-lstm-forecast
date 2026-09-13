@@ -1,6 +1,6 @@
 # ⚡ PJM West Hourly Energy Consumption Forecasting & Deployment
 
-This project features an end-to-end deep learning time-series forecasting web application built to predict hourly energy consumption (MW) for the PJM West region[cite: 2]. Developed for the ExcelR Data Science and AI Internship, this solution utilizes a Recurrent Neural Network with Long Short-Term Memory (RNN-LSTM) architecture optimized with the Adam optimizer to capture complex sequential trends from over 143,000 hourly records[cite: 3]. 
+This project features an end-to-end deep learning time-series forecasting web application built to predict hourly energy consumption (MW) for the PJM West region. Developed for the ExcelR Data Science and AI Internship, this solution utilizes a Recurrent Neural Network with Long Short-Term Memory (RNN-LSTM) architecture optimized with the Adam optimizer to capture complex sequential trends from over 143,000 hourly records. 
 
 ## 🚀 Key Features
 * **Data Preprocessing & EDA:** Cleaned 143k+ rows[cite: 3], handled missing hourly intervals[cite: 3], and applied linear interpolation[cite: 3].
